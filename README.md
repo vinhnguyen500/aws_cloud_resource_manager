@@ -8,7 +8,7 @@ These scripts are utilized by AWS Lambda to manage resources in AWS. All resourc
 
 ## Getting Started
 
-Within the subdirectories auto-tag and cleanup are instructions on how to setup the resource manager in AWS Lambda. NOTICE: Each lambda function has environment variables that need to be defined.
+Within the subdirectories **auto-tag** and **cleanup** are instructions on how to setup the resource manager in AWS Lambda. NOTICE: Each lambda function has environment variables that need to be defined.
 
 ### Supported Platforms
 
