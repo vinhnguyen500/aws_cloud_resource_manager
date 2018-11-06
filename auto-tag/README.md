@@ -58,7 +58,7 @@ notify_snitch : dev-png-notify-snitch
 sender_email : example@email.com
 slack_application_url : slack_hook.com
 slack_channel : testing-handler
-slack_channel_id : "CD3R2NYBZ"
+slack_channel_id : "channel_id"
 sqs_url : sqs_url.com
 ```
 
