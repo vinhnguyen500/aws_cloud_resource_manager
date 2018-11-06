@@ -1,4 +1,4 @@
-# AWS Build Application
+# AWS Resource Manager
 
 These scripts are utilized by AWS Lambda to manage resources in AWS. All resources are autotagged with necessary information including the Owner_ID and an expiration date. Users are notified of expiring resources through their email and username associated with the Owner_ID found through LDAP authentication. Expired resources are terminated if no further action is taken.
 
