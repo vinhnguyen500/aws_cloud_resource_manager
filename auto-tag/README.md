@@ -55,7 +55,7 @@ formatted_email : dev-png-format-message
 slack_message : dev-png-slack-message
 query_ldap : dev-png-ldap-query-attribute
 notify_snitch : dev-png-notify-snitch
-sender_email : CloudResourceJanitor@t-mobile.com
+sender_email : example@email.com
 slack_application_url : slack_hook.com
 slack_channel : testing-handler
 slack_channel_id : "CD3R2NYBZ"
